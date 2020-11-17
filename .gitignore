@@ -1,2 +1,6 @@
 /Part 1/Dockerfile 
 /Part 1/python
+
+/Part 1/1.10/*
+!/Part 1/1.10/commands.txt
+!/Part 1/1.10/Dockerfile
